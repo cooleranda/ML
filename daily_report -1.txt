@@ -1,0 +1,20 @@
+=== Daily Hospital Report ===
+
+Total Staff Count: 7
+
+Critical Wards:
+ - ICU
+ - Emergency
+
+Equipment Shortages:
+ Emergency:
+    Ventilator: 3
+    Defibrillator: 2
+
+Per-Ward Summary:
+ ICU:
+    Staff Count: 5
+    Equipment Total: 31
+ Emergency:
+    Staff Count: 2
+    Equipment Total: 5
